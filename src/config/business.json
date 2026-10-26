@@ -1,0 +1,16 @@
+{
+  "id": "cult",
+  "name": "Культ",
+  "tagline": "Детейлинг-студия",
+  "phone": "+7 909 104-13-22",
+  "address": "Пермь, Левченко, 1 бокс 62",
+  "rating2gis": { "score": 5, "count": 32 },
+  "workingHours": { "start": 10, "end": 19 },
+  "worksOnWeekend": false,
+  "services": [
+    { "name": "Полировка кузова", "price": 9900, "duration": 480, "description": "Два пасса, глубокие риски, замеры ЛКП" },
+    { "name": "Керамика", "price": 22000, "duration": 600, "description": "Два слоя покрытия, броне-плёнка порогов" },
+    { "name": "Комплексная мойка", "price": 1800, "duration": 120, "description": "Предмойка, ручная мойка, чистка арок" },
+    { "name": "Химчистка салона", "price": 7500, "duration": 360, "description": "Сиденья, пол, потолок, озонирование" }
+  ]
+}
